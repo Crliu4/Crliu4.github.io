@@ -2,33 +2,12 @@
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
+[Stock Market Prediction using Twitter Sentiments](/https://github.com/uchicago-CAPP30122-win-2022/proj-fight_potatoes.git)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Analyzing COVID Twitter Sentiments on Healthcare Stock Price Movements](https://github.com/Crliu4/capp30254_fight_potatoes.git)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
