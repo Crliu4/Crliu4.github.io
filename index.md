@@ -11,7 +11,7 @@ variety of topics. We looked into how the polarity of sentiments in tweets is re
 ---
 [Analyzing COVID Twitter Sentiments on Healthcare Stock Price Movements](https://github.com/Crliu4/capp30254_fight_potatoes.git)
 <br>
-**Project description:** Final group project for Machine Learning for Public Policy (CAPP30254). The goal of this project is to predict healthcare sector stock prices. The target variables are stock price and the relative daily change of a stock. The features used come from financial data and COVID-related tweets. The entire project is divided into three phases, where each phase tries to solve problems that arosein the previous phase.
+**Project description:** Final group project for Machine Learning for Public Policy (CAPP30254). The goal of this project is to predict healthcare sector stock prices. The target variables are stock price and the relative daily change of a stock. The features used come from financial data and COVID-related tweets. The entire project is divided into three phases, where each phase tries to solve problems that arose in the previous phase.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
