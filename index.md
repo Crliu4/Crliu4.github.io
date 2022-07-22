@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-### Machine Learning
+### Data Science
 
 [Analyzing COVID Twitter Sentiments on Healthcare Stock Price Movements](https://github.com/Crliu4/capp30254_fight_potatoes.git)
 <br>
