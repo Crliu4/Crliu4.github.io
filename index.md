@@ -15,7 +15,7 @@
 <br>
 **Project description:** Final group project for Computer Science with Applications II (CAPP30122). Stock prices are influenced by the public attitude towards the market. Twitter is a popular place for users to express their moods and sentiments towards a
 variety of topics. We looked into how the polarity of sentiments in tweets is related to the daily movements of stock prices!
-<img src="images/CAPP30122.jpg?raw=true"/>
+<img src="images/CAPP30122.png?raw=true"/>
 
 
 
