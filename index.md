@@ -11,7 +11,7 @@
 ---
 
 ### Python Application
-[Stock Market Prediction using Twitter Sentiments](https://github.com/Crliu4/crliu4.github.io/tree/main/122_project)
+[Stock Market Prediction using Twitter Sentiments](https://github.com/uchicago-CAPP30122-win-2022/proj-fight_potatoes)
 <br>
 **Project description:** Final group project for Computer Science with Applications II (CAPP30122). Stock prices are influenced by the public attitude towards the market. Twitter is a popular place for users to express their moods and sentiments towards a
 variety of topics. We looked into how the polarity of sentiments in tweets is related to the daily movements of stock prices!
