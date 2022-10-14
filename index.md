@@ -3,6 +3,10 @@
 ---
 ### Data Science
 
+[Coding it Forward Civic Digital Fellowship](https://github.com/codingitforward/cdf2022/blob/main/Carolyn_Liu.pdf)
+<br>
+**Project description:** Civid Digital Fellow (summer 2022) at the U.S. Census Bureau's Economic Indicator Division. Enhance the usefulness of Business Formation Statistics (BFS), one of the Census Bureau’s newest data products that provides insight into early-stage business development. Conducted exploratory linking and analysis in python (pandas) between BFS and demographic data from other Census surveys. 
+
 [Analyzing COVID Twitter Sentiments on Healthcare Stock Price Movements](https://github.com/Crliu4/capp30254_fight_potatoes.git)
 <br>
 **Project description:** Final group project for Machine Learning for Public Policy (CAPP30254). The goal of this project is to predict healthcare sector stock prices. The target variables are stock price and the relative daily change of a stock. The features used come from financial data and COVID-related tweets. The entire project is divided into three phases, where each phase tries to solve problems that arose in the previous phase.
