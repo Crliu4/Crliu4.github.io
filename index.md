@@ -24,7 +24,7 @@ variety of topics. We looked into how the polarity of sentiments in tweets is re
 ### Data Visualization
 [Final Project - The Tate Collection through the Years](https://crliu4.github.io/CAPP30239_FA22/final_project/code/project.html)
  <br><br>
-<!-- **Project description:** Civid Digital Fellow (summer 2022) at the U.S. Census Bureau's Economic Indicators Division. The goal of the project was to enhance the usefulness of Business Formation Statistics (BFS), one of the Census Bureau’s newest data products that provides insight into early-stage business development. I conducted exploratory linking and analysis in python (pandas) between BFS and demographic data from other Census surveys.  -->
+**Project description:** Final Project for Data Visualization for Policy Analysis (CAPP30239).
 
 
 
