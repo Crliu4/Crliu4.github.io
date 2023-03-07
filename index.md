@@ -4,13 +4,14 @@
 ### Data Science
 [Data Science Clinic: Electronic Monitoring Device Shielding Detection](https://drive.google.com/file/d/1aoW09WtfLm_2ymvJRobTAXZmZ3c5kQtR/view?usp=share_link)
  <!-- <br><br> -->
-\n**Project description:** Electronic Monitoring (EM) can be an effective, safe, and humane means of decarceration if management software can appropriately identify serious infractions. EM participants can have free movement to go to work, school, and
-reintegrate into their communities. Device shielding or the deliberate obstruction of devices with foil to
-prevent their location from being tracked may be a significant source of risk. Some participants are able to successfully do so and have been allegedly involved in criminal behavior while their signal was lost. Many other participants simply lose their signal due to
+ <br>
+**Project description:** Electronic Monitoring (EM) can be an effective, safe, and humane means of decarceration if management software can appropriately identify serious infractions. Some participants are able to successfully shield their device signal and have been allegedly involved in criminal behavior while their signal was lost. Many other participants simply lose their signal due to
 environmental factors such as living in a built-up environment, basement, or the like. At the moment, Cook County has no way to examine signal characteristics and check in with those that are most suspicious. The team designed & conducted field tests to build sufficient ground-truth on device GPS signal loss and built logistic and XGBoost models in Python/Jupyter Notebook to identify whether device shielding was occurring. Code and video presentation available upon request.
+<img src="images/RISC.png?raw=true"/>
 
 [Coding it Forward Civic Digital Fellowship](https://github.com/codingitforward/cdf2022/blob/main/Carolyn_Liu.pdf)
  <!-- <br><br> -->
+ <br>
 **Project description:** Civid Digital Fellow (summer 2022) at the U.S. Census Bureau's Economic Indicators Division. The goal of the project was to enhance the usefulness of Business Formation Statistics (BFS), one of the Census Bureau’s newest data products that provides insight into early-stage business development. I conducted exploratory record linkage and analysis in Python between the Business Formation Statistics data product and various demographic datasets (Annual Business Survey & Nonemployer Statistics by Demographics) to develop a process (matching by unique identifier; resolving duplicates to select primary record) for an improved data product. Presented findings to external audiences and senior internal leadership on the process for assembling a more equitable & improved data product to help businesses, policymakers, regional planners, and researchers assess the current state of early entrepreneurship at the national and state levels.
 
 [Analyzing COVID Twitter Sentiments on Healthcare Stock Price Movements](https://github.com/Crliu4/capp30254_fight_potatoes.git)
@@ -23,6 +24,7 @@ environmental factors such as living in a built-up environment, basement, or the
 ### Python Application
 [Stock Market Prediction using Twitter Sentiments](https://github.com/uchicago-CAPP30122-win-2022/proj-fight_potatoes)
  <!-- <br><br> -->
+ <br>
 **Project description:** Final group project for Computer Science with Applications II (CAPP30122). Stock prices are influenced by the public attitude towards the market. Twitter is a popular place for users to express their moods and sentiments towards a
 variety of topics. We used Python (pandas) to build basic models on how tweet polarity & sentiments are related to the daily movements of stock prices. Then coded with Python (Plotly Dash) to deploy an interactive dashboard for users to visualize the findings.
 <img src="images/CAPP30122.png?raw=true"/>
@@ -30,6 +32,7 @@ variety of topics. We used Python (pandas) to build basic models on how tweet po
 ### Data Visualization
 [Final Project - The Tate Collection through the Years](https://crliu4.github.io/CAPP30239_FA22/final_project/code/project.html)
  <!-- <br><br> -->
+ <br>
 **Project description:** Final Project for Data Visualization for Policy Analysis (CAPP30239). Coded primarily in D3.js to conduct visual storytelling (used stacked bar, interactive treemap & modified beeswarm charts) about the Tate Gallery Collection throughout time.
 <img src="images/Dataviz.png?raw=true"/>
 
