@@ -24,7 +24,7 @@ environmental factors such as living in a built-up environment, basement, or the
 [Stock Market Prediction using Twitter Sentiments](https://github.com/uchicago-CAPP30122-win-2022/proj-fight_potatoes)
  <!-- <br><br> -->
 **Project description:** Final group project for Computer Science with Applications II (CAPP30122). Stock prices are influenced by the public attitude towards the market. Twitter is a popular place for users to express their moods and sentiments towards a
-variety of topics. We used Python (pandas) to build basic models on how tweet polarity & sentiments are related to the daily movements of stock prices. Then coded with Python (Dash) to create an interactive dashboard for users to visualize the findings.
+variety of topics. We used Python (pandas) to build basic models on how tweet polarity & sentiments are related to the daily movements of stock prices. Then coded with Python (Plotly Dash) to deploy an interactive dashboard for users to visualize the findings.
 <img src="images/CAPP30122.png?raw=true"/>
 
 ### Data Visualization
