@@ -15,7 +15,7 @@ The team designed & conducted field tests to build sufficient ground-truth on de
 <br>
 **Project description:** Civid Digital Fellow (summer 2022) at the U.S. Census Bureau's Economic Indicators Division. The goal of the project was to enhance the usefulness of Business Formation Statistics (BFS), one of the Census Bureau’s newest data products that provides insight into early-stage business development. 
 
-I conducted exploratory record linkage and analysis in Python between the Business Formation Statistics data product and various demographic datasets (Annual Business Survey & Nonemployer Statistics by Demographics) to develop a process (matching by unique identifier; resolving duplicates to select primary record) for an improved data product. Presented findings to external audiences and senior internal leadership on the process for assembling a more equitable & improved data product to help businesses, policymakers, regional planners, and researchers assess the current state of early entrepreneurship at the national and state levels.
+I conducted exploratory record linkage and analysis in Python between BFS and various demographic datasets (Annual Business Survey & Nonemployer Statistics by Demographics) to develop a process (matching by unique identifier; resolving duplicates to select primary record) for an improved data product. Presented findings to external audiences and senior internal leadership on the process for assembling a more equitable & improved data product to help businesses, policymakers, regional planners, and researchers assess the current state of early entrepreneurship at the national and state levels.
 
 <img src="images/CDF.png?raw=true"/>
 
