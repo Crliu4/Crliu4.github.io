@@ -5,7 +5,9 @@
 [Data Science Clinic: Electronic Monitoring Device Shielding Detection](https://drive.google.com/file/d/1aoW09WtfLm_2ymvJRobTAXZmZ3c5kQtR/view?usp=share_link)
 <br>
 **Project description:** Electronic Monitoring can be an effective, safe, and humane means of decarceration if management software can appropriately identify serious infractions. Some participants are able to successfully shield their device signal and have been allegedly involved in criminal behavior while their signal was lost. Many other participants simply lose their signal due to
-environmental factors such as living in a built-up environment, basement, or the like. At the moment, Cook County has no way to examine signal characteristics and check in with those that are most suspicious. The team designed & conducted field tests to build sufficient ground-truth on device GPS signal loss and built logistic and XGBoost models in Python/Jupyter Notebook to identify whether device shielding was occurring. Code and video presentation available upon request.
+environmental factors such as living in a built-up environment, basement, or the like. At the moment, Cook County has no way to examine signal characteristics and check in with those that are most suspicious. 
+
+The team designed & conducted field tests to build sufficient ground-truth on device GPS signal loss and built logistic and XGBoost models in Python/Jupyter Notebook to identify whether device shielding was occurring. Code and video presentation available upon request.
 <img src="images/RISC.png?raw=true"/>
 
 [Coding it Forward Civic Digital Fellowship](https://github.com/codingitforward/cdf2022/blob/main/Carolyn_Liu.pdf)
