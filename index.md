@@ -4,7 +4,7 @@
 ### Data Science
 [Data Science Clinic: Electronic Monitoring Device Shielding Detection](https://drive.google.com/file/d/1aoW09WtfLm_2ymvJRobTAXZmZ3c5kQtR/view?usp=share_link)
  <!-- <br><br> -->
-**Project description:** Electronic Monitoring (EM) can be an effective, safe, and humane means of decarceration if management software can appropriately identify serious infractions. EM participants can have free movement to go to work, school, and
+\n**Project description:** Electronic Monitoring (EM) can be an effective, safe, and humane means of decarceration if management software can appropriately identify serious infractions. EM participants can have free movement to go to work, school, and
 reintegrate into their communities. Device shielding or the deliberate obstruction of devices with foil to
 prevent their location from being tracked may be a significant source of risk. Some participants are able to successfully do so and have been allegedly involved in criminal behavior while their signal was lost. Many other participants simply lose their signal due to
 environmental factors such as living in a built-up environment, basement, or the like. At the moment, Cook County has no way to examine signal characteristics and check in with those that are most suspicious. The team designed & conducted field tests to build sufficient ground-truth on device GPS signal loss and built logistic and XGBoost models in Python/Jupyter Notebook to identify whether device shielding was occurring. Code and video presentation available upon request.
