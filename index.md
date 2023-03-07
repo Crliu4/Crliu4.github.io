@@ -26,6 +26,8 @@ environmental factors such as living in a built-up environment, basement, or the
 variety of topics. We used Python (pandas) to build basic models on how tweet polarity & sentiments are related to the daily movements of stock prices. Then coded with Python (Plotly Dash) to deploy an interactive dashboard for users to visualize the findings.
 <img src="images/CAPP30122.png?raw=true"/>
 
+---
+
 ### Data Visualization
 [Final Project - The Tate Collection through the Years](https://crliu4.github.io/CAPP30239_FA22/final_project/code/project.html)
 <br>
