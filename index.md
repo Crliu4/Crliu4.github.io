@@ -21,7 +21,7 @@ Research Questions:
 1. Can fake news be predicted and if so, how well?
 2. What are the biggest differences between reliable and unreliable articles, and are there topics that are more susceptible to being faked?
 
-<img src="images/nlp poster.png?raw=true"/>
+<img src="images/fake_news.png?raw=true"/>
 
 [Coding it Forward Civic Digital Fellowship](https://github.com/codingitforward/cdf2022/blob/main/Carolyn_Liu.pdf)
 <br>
